@@ -1,0 +1,12 @@
+[2025-04-09T10:59:28.476Z] info: Connected to MongoDB
+[2025-04-09T11:00:00.586Z] info: Connected to MongoDB
+[2025-04-09T11:01:09.334Z] info: Connected to MongoDB
+[2025-04-09T11:01:22.921Z] info: Meow, my name is Kitty
+[2025-04-09T11:01:22.924Z] info: Kitten created: Kitty
+[2025-04-09T11:07:59.430Z] info: Connected to MongoDB
+[2025-04-09T11:08:28.983Z] info: Fetched all kittens
+[2025-04-09T11:08:44.942Z] warn: Kitten 'undefined' not found
+[2025-04-09T11:11:26.962Z] info: Connected to MongoDB
+[2025-04-09T11:11:42.809Z] warn: Kitten 'undefined' not found
+[2025-04-09 05:13:52] info: Connected to MongoDB
+[2025-04-09 05:14:10] warn: Kitten 'undefined' not found
